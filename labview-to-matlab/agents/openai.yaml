@@ -1,0 +1,4 @@
+interface:
+  display_name: "LabVIEW 转 MATLAB"
+  short_description: "基于真实 VI 证据复用生成器转换 MATLAB 驱动，并区分工程改写与离线验证"
+  default_prompt: "使用 $labview-to-matlab 处理我提供的 LabVIEW 工程，核实真实接口和依赖，复用生成器并按授权完成离线验证。"
